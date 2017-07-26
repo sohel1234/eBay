@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10191" started-at="2017-07-26T08:17:09Z" finished-at="2017-07-26T08:17:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10191" started-at="2017-07-26T08:17:09Z" finished-at="2017-07-26T08:17:19Z">
+      <class name="Test.eBaySignInTest">
+        <test-method status="PASS" signature="SignInTest()[pri:0, instance:Test.eBaySignInTest@7283d3eb]" name="SignInTest" duration-ms="10154" started-at="2017-07-26T04:17:09Z" finished-at="2017-07-26T04:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInTest -->
+      </class> <!-- Test.eBaySignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
